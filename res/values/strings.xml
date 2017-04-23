@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HackDroid</string>
+    <string name="email_or_mobile">Email or Mobile</string>
+    <string name="paytm_password">Paytm Password</string>
+    <string name="message">Paytm wallet will soon be a part of Pay Payments Bank.You can continue to use all of the services provided by Pay Wallet.By creating this account you consent to move to Paytm Payments Bank and agree to out Terms and Conditions and Privacy Policy</string>
+    <string name="button_string">Secure Login</string>
+    <string name="trouble_logging">Trouble logging in?</string>
+</resources>
